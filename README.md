@@ -14,5 +14,3 @@ A simple calculator program made with Java.
 ## Made by
 First year IT student - Central Philippines State University
 CPSU!
-## Looking for
-Intern. I prefer Java junior developer roles. I'm willing to learn and adapt to new skills!
